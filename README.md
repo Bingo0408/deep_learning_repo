@@ -1,4 +1,4 @@
-# java
+# Deep Learning Repo
 
 + echo "# deeplearn" >> README.md
 + git add README.md
